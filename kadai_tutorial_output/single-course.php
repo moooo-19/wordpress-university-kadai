@@ -37,11 +37,11 @@
                     </p>
                   </div>
                   <div class="campus_footer_content d-flex flex-row align-items-center justify-content-start">
-                    <img src="<?php echo get_template_directory_uri(); ?>/images/clock/png"><span><?php the_time('Y年n月j日'); ?></span>
+                    <img src="<?php echo get_template_directory_uri(); ?>/images/clock.png"><span><?php the_time('Y年n月j日'); ?></span>
                   </div>
                   <hr>
                   <div class="social_share">
-                    <img src="<?php echo get_template_directory_uri(); ?>/images/facebook-square-brands/png" alt="">
+                    <img src="<?php echo get_template_directory_uri(); ?>/images/facebook-square-brands.png" alt="">
                     <img src="<?php echo get_template_directory_uri(); ?>/images/twitter-square-brands.png" alt="">
                   </div>
                 </div>
